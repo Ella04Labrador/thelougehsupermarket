@@ -1,0 +1,12 @@
+Guide to TheLouGehSupermarketSystem
+Sales and Delivery Transaction System for  The Lou Geh Supermarket
+
+1. Install XAMPP.
+
+2. After downloading "thelougehsupermarket.rar", extract the folder to xampp/htdocs.
+
+3. On PHPMyAdmin, restore the backup database ("thelougehsupermarket") provided into your MySQL Database.
+
+4. Run your XAMPP and start Apache Service.
+
+5. To access the system, open your browser and visit "localhost/LouGehSupermarket".
